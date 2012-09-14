@@ -1,4 +1,4 @@
 test1
 =====
 
-test repo
+This is my test repo.  boom!
